@@ -2,7 +2,7 @@ KACEM Group
 
 POLITIQUE DE CONFIDENTIALITÉ
 
-Dernière mise à jour : 26 MAI 2024
+Dernière mise à jour : 03 Septembre 2024
 
 Cette notice de confidentialité pour KACEM Group ("nous", "notre" ou "nos") décrit comment et pourquoi nous collectons, stockons, utilisons et partageons vos informations personnelles lorsque vous utilisez nos services ("Services"), tels que lorsque vous téléchargez et utilisez notre application mobile CRM pour les commerciaux, ou toute autre application liée à cette notice de confidentialité.
 
